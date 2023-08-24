@@ -1,5 +1,5 @@
 let users = [];
-setURL('https://gruppe-447.developerakademie.net/join/smallest_backend_ever');
+setURL('https://christopher-fuchs.developerakademie.net/join/smallest_backend_ever');
 
 async function init() {
     await downloadFromServer();
