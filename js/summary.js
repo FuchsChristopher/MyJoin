@@ -1,4 +1,4 @@
-setURL('https://christopher-fuchs.developerakademie.net/MyJoin/smallest_backend_ever');
+setURL('https://christopher-fuchs.developerakademie.net/Join_MyVision/smallest_backend_ever');
 let contacts = [];
 let letters = [];
 let testData = [];

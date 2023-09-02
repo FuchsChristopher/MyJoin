@@ -1,5 +1,5 @@
 let users = [];
-setURL('https://christopher-fuchs.developerakademie.net/MyJoin/smallest_backend_ever');
+setURL('https://christopher-fuchs.developerakademie.net/Join_MyVision/smallest_backend_ever');
 
 /**
  * Loading backend data to the variable
